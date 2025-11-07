@@ -1,2 +1,2 @@
 # Data_Science_Tools_IBM
-Final assignment del curso "Data Science Tools"
+Final assignment from "Data Science Tools" course by UBM
